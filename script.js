@@ -8,7 +8,7 @@ document.getElementById('get-weather-btn').addEventListener('click', function ()
     return;
   }
 
-  const apiUrl = `http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}&aqi=yes`;
+  const apiUrl = `https://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}&aqi=yes`;
 
   fetch(apiUrl)
     .then(response => response.json())
