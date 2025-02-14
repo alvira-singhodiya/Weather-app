@@ -8,9 +8,9 @@ A simple weather application that provides real-time weather information based o
 - Users can input any **city or country** to get weather information.
 
 ## How to run this project:
--Clone the repository to your local machine.
--Obtain a free API key from WeatherAPI.
--Upon running the project, enter your API key when prompted.
+Clone the repository to your local machine.
+Obtain a free API key from WeatherAPI.
+Upon running the project, enter your API key when prompted.
 
 ## Technologies Used:
 - **HTML**: For the structure of the webpage.
